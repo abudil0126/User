@@ -1,0 +1,29 @@
+.container{
+    width: 100%;
+    max-width: 1510px;
+    height: auto;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.users_wp{
+    width: 100%;
+    max-width: 1510px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 200px;
+}
+
+.user{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
